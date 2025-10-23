@@ -1,0 +1,7 @@
+C:\Users\vh\Documents\GitHub\Desafio-Tecnico-Ingacode\GeradorSenha\GeradorSenha\bin\Debug\GeradorSenha.exe.config
+C:\Users\vh\Documents\GitHub\Desafio-Tecnico-Ingacode\GeradorSenha\GeradorSenha\bin\Debug\GeradorSenha.exe
+C:\Users\vh\Documents\GitHub\Desafio-Tecnico-Ingacode\GeradorSenha\GeradorSenha\bin\Debug\GeradorSenha.pdb
+C:\Users\vh\Documents\GitHub\Desafio-Tecnico-Ingacode\GeradorSenha\GeradorSenha\obj\Debug\GeradorSenha.csproj.AssemblyReference.cache
+C:\Users\vh\Documents\GitHub\Desafio-Tecnico-Ingacode\GeradorSenha\GeradorSenha\obj\Debug\GeradorSenha.csproj.CoreCompileInputs.cache
+C:\Users\vh\Documents\GitHub\Desafio-Tecnico-Ingacode\GeradorSenha\GeradorSenha\obj\Debug\GeradorSenha.exe
+C:\Users\vh\Documents\GitHub\Desafio-Tecnico-Ingacode\GeradorSenha\GeradorSenha\obj\Debug\GeradorSenha.pdb

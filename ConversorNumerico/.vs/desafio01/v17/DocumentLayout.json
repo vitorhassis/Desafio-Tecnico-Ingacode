@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\desafio01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32AA49-B6A3-4C08-930A-46B05311B6C9}|desafio01\\desafio01.csproj|c:\\users\\vh\\documents\\github\\desafio-tecnico-ingacode\\desafio01\\desafio01\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32AA49-B6A3-4C08-930A-46B05311B6C9}|desafio01\\desafio01.csproj|solutionrelative:desafio01\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32AA49-B6A3-4C08-930A-46B05311B6C9}|desafio01\\desafio01.csproj|c:\\users\\vh\\documents\\github\\desafio-tecnico-ingacode\\desafio01\\desafio01\\conversaoromano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32AA49-B6A3-4C08-930A-46B05311B6C9}|desafio01\\desafio01.csproj|solutionrelative:desafio01\\conversaoromano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32AA49-B6A3-4C08-930A-46B05311B6C9}|desafio01\\desafio01.csproj|c:\\users\\vh\\documents\\github\\desafio-tecnico-ingacode\\desafio01\\desafio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32AA49-B6A3-4C08-930A-46B05311B6C9}|desafio01\\desafio01.csproj|solutionrelative:desafio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversaoRomano.cs",
+              "DocumentMoniker": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\desafio01\\desafio01\\ConversaoRomano.cs",
+              "RelativeDocumentMoniker": "desafio01\\ConversaoRomano.cs",
+              "ToolTip": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\desafio01\\desafio01\\ConversaoRomano.cs",
+              "RelativeToolTip": "desafio01\\ConversaoRomano.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:38:37.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\desafio01\\desafio01\\Program.cs",
+              "RelativeDocumentMoniker": "desafio01\\Program.cs",
+              "ToolTip": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\desafio01\\desafio01\\Program.cs",
+              "RelativeToolTip": "desafio01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:34:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\desafio01\\desafio01\\Entrada.cs",
+              "RelativeDocumentMoniker": "desafio01\\Entrada.cs",
+              "ToolTip": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\desafio01\\desafio01\\Entrada.cs",
+              "RelativeToolTip": "desafio01\\Entrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:51:00.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
