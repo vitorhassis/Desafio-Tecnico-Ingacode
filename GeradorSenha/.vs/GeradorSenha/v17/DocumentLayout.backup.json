@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|c:\\users\\vh\\documents\\github\\desafio-tecnico-ingacode\\geradorsenha\\geradorsenha\\bonussalvartxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|solutionrelative:geradorsenha\\bonussalvartxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\geradorsenha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|solutionrelative:geradorsenha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|c:\\users\\vh\\documents\\github\\desafio-tecnico-ingacode\\geradorsenha\\geradorsenha\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\geradorsenha\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|solutionrelative:geradorsenha\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|c:\\users\\vh\\documents\\github\\desafio-tecnico-ingacode\\geradorsenha\\geradorsenha\\logicagerarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\geradorsenha\\logicagerarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|solutionrelative:geradorsenha\\logicagerarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|c:\\users\\vh\\documents\\github\\desafio-tecnico-ingacode\\geradorsenha\\geradorsenha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|solutionrelative:geradorsenha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|c:\\users\\vh\\documents\\github\\desafio-tecnico-ingacode\\geradorsenha\\geradorsenha\\bonussalvarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0185C646-36BF-499B-B301-F457D82F797B}|GeradorSenha\\GeradorSenha.csproj|solutionrelative:geradorsenha\\bonussalvarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bonusSalvarTxt.cs",
-              "DocumentMoniker": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\GeradorSenha\\bonusSalvarTxt.cs",
-              "RelativeDocumentMoniker": "GeradorSenha\\bonusSalvarTxt.cs",
-              "ToolTip": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\GeradorSenha\\bonusSalvarTxt.cs",
-              "RelativeToolTip": "GeradorSenha\\bonusSalvarTxt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "bonusSalvarSenha.cs",
+              "DocumentMoniker": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\GeradorSenha\\bonusSalvarSenha.cs",
+              "RelativeDocumentMoniker": "GeradorSenha\\bonusSalvarSenha.cs",
+              "ToolTip": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\GeradorSenha\\bonusSalvarSenha.cs",
+              "RelativeToolTip": "GeradorSenha\\bonusSalvarSenha.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T18:57:09.592Z",
+              "WhenOpened": "2025-10-23T20:59:35.713Z",
               "EditorCaption": ""
             },
             {
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "GeradorSenha\\LogicaGerarSenha.cs",
               "ToolTip": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\GeradorSenha\\LogicaGerarSenha.cs",
               "RelativeToolTip": "GeradorSenha\\LogicaGerarSenha.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAA2wFwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T17:20:07.269Z",
               "EditorCaption": ""
@@ -62,14 +62,14 @@
               "RelativeDocumentMoniker": "GeradorSenha\\Entrada.cs",
               "ToolTip": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\GeradorSenha\\Entrada.cs",
               "RelativeToolTip": "GeradorSenha\\Entrada.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowEkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T17:07:15.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vh\\Documents\\GitHub\\Desafio-Tecnico-Ingacode\\GeradorSenha\\GeradorSenha\\Program.cs",
               "RelativeDocumentMoniker": "GeradorSenha\\Program.cs",

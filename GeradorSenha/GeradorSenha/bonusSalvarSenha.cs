@@ -10,8 +10,10 @@ namespace GeradorSenha
         public void SalvarSenhaMaquina(string senha)
         {
             Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("=== SALVAR SENHA ===");
-            Console.Write("-Será gerado um arquivo .txt no seguinte caminho: 'GeradorSenha' -> 'bin' -> 'Debug'.");
+            Console.ResetColor();
+            Console.Write("\n-Será gerado um arquivo .txt no seguinte caminho: 'GeradorSenha' -> 'bin' -> 'Debug'.");
             Thread.Sleep(1500);
             Console.Write("-\n\nDeseja continuar? (S/N): ");
             bool continuar = Console.ReadLine().ToLower() == "s";
